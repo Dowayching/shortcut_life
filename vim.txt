@@ -1,0 +1,13 @@
+
+
+
+
+
+
+@ Mode
+Defaulti: normal mode (command mode)
+i : insert mode (can key-in)
+v : visual mode
+ESC : return to normal mode
+
+
