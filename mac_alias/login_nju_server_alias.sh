@@ -19,6 +19,4 @@ echo "alias login_nju16=\"${SSH_NJU_SERVER} 16122\"" >> ~/.bash_profile
 # Others: 322, 422, 1122 can be accessed by Duyuan,
 # but I don't use
 
-# Make the change work
-. ~/.bash_profile
 
