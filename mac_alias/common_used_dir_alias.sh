@@ -11,5 +11,7 @@ echo "#Common Used Directory Alias" >> ~/.bash_profile
 # Common Used Folder
 echo "alias dir_git=\"cd ~/Project_git\"" >> ~/.bash_profile
 echo "alias dir_prjgit=\"cd ~/Project_git/_project\"" >> ~/.bash_profile
+echo "alias dir_alias=\"cd ~/Project_git/shortcut_life/mac_alias\"" >> ~/.bash_profile
+echo "alias dir_temp=\"cd ~/Project_git/shortcut_life/prj_temp\"" >> ~/.bash_profile
 
 
