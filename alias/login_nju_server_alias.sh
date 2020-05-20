@@ -4,13 +4,15 @@
 # Install: bash this_script 
 # Usage: type alias command
 
+echo "Install NJU Server Shortcut..."
+
 # Parameters
 SSH_NJU_SERVER="ssh -X duyuan@v2h3408810.iok.la -p"
 
 exec 3>&1 1>> ~/.bash_profile
 
 # Print Function Descriptions 
-echo "" >>
+echo ""
 echo "# NJU GPU Server Shortcut" 
 
 # Nividia Tesla-P100 12G 
@@ -22,3 +24,5 @@ echo "alias login_nju161=\"${SSH_NJU_SERVER} 16122\""
 # but I don't use
 
 exec 1>&3 3>&-
+
+echo "Install NJU Server Shortcut done!"
