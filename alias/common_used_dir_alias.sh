@@ -18,6 +18,7 @@ echo "# Common Used Directory Shortcut"
 echo "alias dir_git=\"cd ${PRJ_GIT}\""
 echo "alias dir_prjgit=\"cd ${PRJ_GIT}/_project\"" 
 echo "alias dir_shortcut=\"cd ${PRJ_GIT}/shortcut_life/alias\"" 
+echo "alias dir_code=\"cd ${PRJ_GIT}/code_chip/\"" 
 echo "alias dir_temp=\"cd ${PRJ_GIT}/shortcut_life/prj_temp\"" 
 
 
