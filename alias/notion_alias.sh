@@ -4,12 +4,11 @@
 # Install: bash this_script
 # Usage: type alias command 
 
-echo "Install Notion Pages Shortcut..."
-
 # Parameters
 NOTION_APP_LOC="/Applications/Notion.app"
 NOTION_WEB_LOC="https://www.notion.so/antotu"
 
+echo "Install Notion Pages Shortcut..."
 exec 3>&1 1>> ~/.bash_profile
 
 # Print Function Descriptions
@@ -23,5 +22,4 @@ echo "alias nt_focus=\"open -a ${NOTION_APP_LOC} ${NOTION_WEB_LOC}/Shortcut-Focu
 
 
 exec 1>&3 3>&-
-
 echo "Install Notion Pages Shortcut done!"

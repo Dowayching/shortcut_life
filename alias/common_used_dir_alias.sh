@@ -4,11 +4,10 @@
 # Install: bash this_script
 # Usage: type alias command
 
-echo "Install Common Used Directory Shortcut..."
-
 # Parameters
 PRJ_GIT="~/Project_git"
 
+echo "Install Common Used Directory Shortcut..."
 exec 3>&1 1>> ~/.bash_profile
 
 # Print Function Descriptions
@@ -23,5 +22,4 @@ echo "alias dir_temp=\"cd ${PRJ_GIT}/shortcut_life/prj_temp\""
 
 
 exec 1>&3 3>&-
-
 echo "Install Common Used Directory Shortcut done!"
