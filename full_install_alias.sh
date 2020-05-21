@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Install All Mac Shortcut
+# Full Install All Mac Shortcut & Setting
 # Usage: bash this_script
-# Comment: clear the duplicated code on ~/.zshrc & ~/.bash_profile before installation
+# Comment: for install for a new computer
 
 echo "Install All Mac Shortcut:"
 
