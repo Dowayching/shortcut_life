@@ -15,6 +15,8 @@ echo "# Shortcut Loopup Table"
 echo "alias sc=\"vim ~/.bash_profile\"" 
 echo "alias sc_vim=\"vim ~/Project_git/shortcut_life/shortcut_note/vim_shortcut.md\""
 echo "alias sc_bsm=\"vim ~/Project_git/shortcut_life/shortcut_note/boshiamy_shortcut.md\""
+echo "alias sc_chrome=\"vim ~/Project_git/shortcut_life/shortcut_note/chrome_shortcut.md\""
+echo "alias sc_notion=\"vim ~/Project_git/shortcut_life/shortcut_note/notion_shortcut.md\""
 
 
 exec 1>&3 3>&-
