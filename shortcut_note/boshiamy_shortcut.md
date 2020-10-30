@@ -1,10 +1,11 @@
 # 這裡是不熟的字
 
-擁 JV
-秉 GES
-釋 MG
-譽 EIO
-尺 CNN
+### 常用
+擁 JV			戒 AQR
+秉 GES			覆 CV
+釋 MG			徵 KP
+譽 EIO			麥 GCA
+尺 CNN			寓 NQNU
 衡 UT
 貌 ERV
 淵 WHI
@@ -13,7 +14,6 @@
 樸 TVN
 蘿 RFC
 蔔 RNEQ
-徵 KP
 肌 URZ
 巔 EJMB
 顛 JBV
@@ -31,4 +31,10 @@
 叛 BLU
 避 PWN
 偽 PWA
-覆 CV
+卑 PQG
+聚 RUQ
+黏 HBWO
+
+
+### 不常用
+叢 BBE
